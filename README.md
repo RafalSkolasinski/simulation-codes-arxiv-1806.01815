@@ -1,4 +1,5 @@
-# Band structure and g-factor numerical calculations in Ge/Si core/shell nanowires
+# Ge/Si core/shell nanowire simulation code
+[![DOI](https://zenodo.org/badge/140704368.svg)](https://zenodo.org/badge/latestdoi/140704368)
 
 This repository contains simulation codes and raw data of numerical calculations included in [1806.01815](https://arxiv.org/abs/1806.01815).
 

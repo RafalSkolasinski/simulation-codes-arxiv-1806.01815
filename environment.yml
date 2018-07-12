@@ -1,0 +1,15 @@
+name: sige_wires
+dependencies:
+  - defaults::python=3.6.4
+  - defaults::mkl=2018.0.1
+  - defaults::scipy=0.19.1
+  - defaults::numpy=1.13.3
+  - defaults::sympy=1.1.1
+  - defaults::xarray=0.10.1
+
+  - defaults::ipyparallel=6.1.1
+
+  - conda-forge::kwant=1.3.2
+  - conda-forge::hpc05=v1.24
+  - conda-forge::holoviews=1.9.5
+  - conda-forge::deepdish=0.3.4
